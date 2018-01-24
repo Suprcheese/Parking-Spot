@@ -1,0 +1,10 @@
+{
+  "name": "Parking-Spot",
+  "version": "1.0.0",
+  "factorio_version": "0.16",
+  "title": "Parking Spot",
+  "author": "Supercheese",
+  "homepage": "http://www.factorioforums.com/",
+  "dependencies": ["base >= 0.16.0"],
+  "description": "Tired of always crashing into things when you're just trying to get your car back into the garage? Now thanks to the magic of hyper-magnetism, you can be assured that your car will always snap back to the same parking spot, each time, every time!"
+}
